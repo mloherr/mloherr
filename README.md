@@ -1,4 +1,4 @@
-## Hello World!👋
+# Hello World!👋
 
 I'm María, a junior fullstack developer and UX/UI designer with knowledge in accessibility.
 - 🖥️ I’m currently studying PHP and Angular.
@@ -7,7 +7,7 @@ I'm María, a junior fullstack developer and UX/UI designer with knowledge in ac
 - 📍Check my [personal portfolio](soymarialoherr.com)
 - 🙊 Fun fact: I play the ukelele and write poetry
 
-## MY STACK:
+## My stack 🪄
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
